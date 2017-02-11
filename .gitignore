@@ -1,2 +1,6 @@
+Thumbs.db
+.DS_Store
+
+compass_app_log.txt
 .sass-cache/
 *.css.map
